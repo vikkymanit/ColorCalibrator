@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ColorCalibrator::readDedicatedColors(std::__1::vector&lt;cv::Vec&lt;unsigned char, 3&gt;, std::__1::allocator&lt;cv::Vec&lt;unsigned char, 3&gt; &gt; &gt;&amp;):main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "ColorCalibrator::readDedicatedColors():main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "dedColors">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
